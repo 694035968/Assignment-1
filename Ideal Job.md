@@ -7,3 +7,4 @@ According to the advertisement, if want to get this job, the first thing need is
 Actually, I have no experience in IT or data analysis for me right now. However, after years of playing basketball with different people, I have confidence in my communication skills. I believe that I can quickly adapt to the new environment and integrate into the new team.
 To obtain the requirements of being a data analyst, first thing I need to do is that master relevant IT knowledge. For example, learn to use databases to store and call data, and proficient in SQL. At the same time, maintain an aspirant heart, learn to draw inferences. As for the aspect of experience, I need to pay more attention to some relevant part-time information, through part-time, to accumulate more experience.
  
+![](https://github.com/694035968/Assignment-1/blob/master/ideal%20job.png)
