@@ -1,5 +1,5 @@
-Personal Profile 
-The results of an online Myers-Briggs test
+# Personal Profile 
+## The results of an online Myers-Briggs test
 The test I chose is 16 personalities test, it is based on the Myers-Briggs test. The test result is shown in the snapshot below. And also can be find in this link:
 
 https://www.16personalities.com/profiles/e36b98344a92c
@@ -7,10 +7,10 @@ https://www.16personalities.com/profiles/e36b98344a92c
 ![](https://github.com/694035968/Assignment-1/blob/pictures/16personalities%20test.png)
 
 
-The results of an online learning style test
+## The results of an online learning style test
 ![](https://github.com/694035968/Assignment-1/blob/pictures/creativity%20test.png)
 
-The results of an online creativity test
+## The results of an online creativity test
 ![](https://github.com/694035968/Assignment-1/blob/pictures/creativity%20test.png)
 
 
