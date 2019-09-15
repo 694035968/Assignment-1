@@ -8,9 +8,11 @@ https://www.16personalities.com/profiles/e36b98344a92c
 
 
 ## The results of an online learning style test
-![](https://github.com/694035968/Assignment-1/blob/pictures/creativity%20test.png)
+
+![](https://github.com/694035968/Assignment-1/blob/pictures/learning%20style%20test.png)
 
 ## The results of an online creativity test
+
 ![](https://github.com/694035968/Assignment-1/blob/pictures/creativity%20test.png)
 
 
