@@ -1,13 +1,14 @@
-<h1>Personal information</h1>
+<h1>My Profile</h1>
+<h2>Personal information</h2>
 My name is Zhan Ruan, student number is s3538828, email is s3538828@student.rmit.edu.au. Seven years ago, I left my motherland China to start my secondary school life in Singapore. And four years ago, I came to Melbourne to chase my university dream. Years of studying abroad experience makes me more independent, and also teach me how to enjoy life. Traveling is one of my interests. In the past years, I have been to Japan, Korea, Malaysia and so on. Traveling in different countries not only broadened my horizon, but also exposed me to different cultures. Moreover, Basketball is one of my favorite sports. In the years in Melbourne, the place I went most often was RMIT A’Beckett Urban Square. I think basketball not only exercise my body, but also help me integrate into the new environment faster. At the same time, I can get to know more friends with different cultures and backgrounds on the basketball court.
 
-Interest in IT
+<h2>Interest in IT</h2>
 I still remember when I was a little boy, I got my first computer from my father as my tenth birthday gift. It was the first time I knew that there was such a magical thing in the world that can make me feel the vastness of the world without leaving home. With my gradual understanding of computer knowledge, I become more interested in IT. Programmers use code to construct a vast virtual world. At the same time, the real world is better and more convenient because of these innovations. I realized that the life in the future will be tightly connected with IT, having basic understanding of information technology is necessary, so, this is why I want to learn more in this field. 
 
-Why choose RMIT 
+<h3>Why choose RMIT</h3>
 For this question, in general, there are three aspects that lead me to make the decision to choose RMIT. First of all, it is the quality of education, based on the QS World University Rankings by Subject 2019: Computer Science & Information Systems, RMIT is in the top 150 universities (QS, 2019), which indicates that RMIT has high level of teaching, and strong faculty. Meanwhile, according to the introduction form RMIT’s website, RMIT has partnership with many famous companies, like Google, ANZ, and IMB. Which means that we can have chance to solve real problem under this kind of industry-connected model. By this way, not only our understanding of IT knowledge will get improve, but also these experiences will be great helpful for our future careers. Furthermore, it is the flexible class time and convenient location. Since the main campus is located in the city, we have lots of choice to take convenient transportation to attend classes.  
 
-Expect to Learn
+<h2>Expect to Learn</h2>
 Generally speaking, there are two parts I want to gain during my IT study. On the one hand, it is about some basic information about Information Technology, not only about the background, the history, and the development of IT, but also want to learn some specific knowledge about computer languages. As it is known to us all that there are many computer languages, such as Java, C , C++，C#，python and etc.. However, I want to know how to choose the suitable language with the right environment, and what are the differences between these languages. On the other hand, if I choose to engage in IT in the future, I also want to find a suitable career plan from the unit, such as, what I should do, what skill I should obtain.
 
 Ideal Job 
