@@ -87,8 +87,9 @@ First of all, it needs a computer can run the environment for the XML and Java, 
 <h3>Outcome</h3>
 The success flag of the project is that user B can use the applications in the user A's app box. Through this project, some users who cannot use some application can enjoy the convenience brought by technology. At the same time, it will expand the user base of some application and bring more profits to these software companies. However, there are also potential risks. The first thing needs to be considered is security. If personal user information is leaked, criminals may use the application to control others' phones and gain illegal profits. Therefore, the safety environment construction of this application needs to be considered in the future.
 
-<h2>Reference</h3>
- 1. Iqbal, M. 2019. Uber Revenue and Usage Statistics. Business of Apps. Retrieved 11 September 2019,
+<h2>Reference</h2>
+
+  1. Iqbal, M. 2019. Uber Revenue and Usage Statistics. Business of Apps. Retrieved 11 September 2019,
 <https://www.businessofapps.com/data/uber-statistics/>
 
  2. NERIS Analytics Limited, n.d., Consul Personality (ESFJ-A / ESFJ-T), NERIS Analytics Limited. Retrieved 11 September 2019.
